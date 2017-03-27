@@ -94,7 +94,7 @@
 				</tr>
 			</table>
 			
-			<input type="submit"  class="button button2" value="register"   />
+			<input type="submit"  class="button button2" value="Register"   />
 		</form>
 	</div>
 	</center>
