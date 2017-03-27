@@ -6,10 +6,7 @@
 
 </head>
 <body>
-
-
-
-	
+<center>
 	<div>
 		<a href="LoginPage.jsp" id="admin">ADMIN</a>&nbsp;&nbsp;
 		
@@ -19,6 +16,10 @@
 		
 		<a href="contact.jsp" id="contactus">Contact Us</a>&nbsp;&nbsp;
 	</div>
+	</center>
+	<br>
+	<br>
+	<br>
 	
 	<h2>Welcome To Vehicle Insurance System</h2>
 </body>
