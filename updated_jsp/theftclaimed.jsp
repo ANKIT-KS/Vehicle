@@ -15,28 +15,28 @@
         
         <table style="with: 50%">
 				<tr>
-					<h3><td>Claim ID:</td></h3> 
+					<h3><td>Claim ID</td></h3> 
 					 <td><input type="text" name="claim_id" value="<%= request.getAttribute("ClaimID") %>"></td><br> 
 					 </tr>  
         <tr>
-					<h3><td>Policy ID:</td></h3>
+					<h3><td>Policy ID</td></h3>
         <td><input type="text" name="policy_id" value="<%= request.getAttribute("PolicyID") %>"></td><br> 
         </tr>    
         <tr>
-					<h3><td>Customer ID:</td></h3>
+					<h3><td>Customer ID</td></h3>
         
        <td> <input type="text" name="customer_id" value="<%= request.getAttribute("CustomerID") %>"></td><br> 
        </tr>    
         <tr>
-					<h3><td>Amount:</td></h3>
+					<h3><td>Amount</td></h3>
         <td><input type="text" name="amount" value="<%= request.getAttribute("Amount") %>"></td><br>
         </tr>
          <tr>
-					<h3><td>Weightage:</td></h3>
+					<h3><td>Weightage</td></h3>
          <td><input type="text" name="weightage" value="<%= request.getAttribute("Weightage") %>"></td><br> 
          </tr>  
              <tr>
-					<h3><td>Type:</td></h3>
+					<h3><td>Type</td></h3>
             <td> <input type="text" name="type" value="<%= request.getAttribute("Type") %>"></td><br>
             </tr>
             </table>
